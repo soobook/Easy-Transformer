@@ -16,6 +16,14 @@
 - [그림으로 보는 트랜스포머(제이 알라마르](https://jalammar.github.io/illustrated-transformer/))
   - 내부 구조와 계산 방법을 그림으로 설명
 
+- [TRANSFORMER EXPLAINER(GPT-2(samll) 인공신경망 과정 시각화)](https://poloclub.github.io/transformer-explainer/)
+  > | 항목 | 원 논문 | GPT-2 |
+  > |---|---|---|
+  > | 층 정규화 위치 | 더한 뒤 (Post-LN) | 들어가기 전 (Pre-LN) |
+  > | 마지막 층 정규화 | 없음 | 있음 |
+  > | 위치 정보 | 사인·코사인으로 계산 | 학습으로 얻음 |
+  > | 구조 | 인코더 + 디코더 | 디코더만 |
+  
 - 참고자료
   > | 단계 | 계산 | 결과 크기(예시) |
   > |---|---|---|
