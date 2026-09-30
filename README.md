@@ -1,6 +1,14 @@
 # Easy-Transformer
 트랜스포머 구조의 이해
 
+## 트랜스포머 개념 이해 자료
+- []()
+
+## 트랜스포머 내부 구조 이해 자료
+- [처음부터 자세히 알아보기](https://medium.com/@abineshsiva1998/transformers-explained-from-scratch-the-architecture-behind-chatgpt-google-translate-and-almost-3ac4a10f683e)
+  - 초보자도 쉽게 이해할 수 있도록 수학 공식이 포함된 안내서
+  - 손으로 직접 따라 할 수 있는 계산 예제 하나가 수록
+
 ## 동영상
 - [LLM 혁명의 비밀 : 트랜스포머 & 어텐션 기술(25분)](https://www.youtube.com/watch?v=DFzbYu42Li4)
   - 최소의 수식으로 쉽게 트랜스포머 & 어텐션 기술 이해와 트랜스포머의 진화
