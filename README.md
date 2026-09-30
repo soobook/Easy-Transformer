@@ -5,7 +5,7 @@
 - []()
 
 ## 트랜스포머 내부 구조 이해 자료
-- [처음부터 자세히 알아보기](https://medium.com/@abineshsiva1998/transformers-explained-from-scratch-the-architecture-behind-chatgpt-google-translate-and-almost-3ac4a10f683e)
+- [처음부터 자세히 알아보기(medium.com)](https://medium.com/@abineshsiva1998/transformers-explained-from-scratch-the-architecture-behind-chatgpt-google-translate-and-almost-3ac4a10f683e)
   - 초보자도 쉽게 이해할 수 있도록 수학 공식이 포함된 안내서
   - 손으로 직접 따라 할 수 있는 계산 예제 하나가 수록
 
