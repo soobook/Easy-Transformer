@@ -17,6 +17,10 @@
   - 내부 구조와 계산 방법을 그림으로 설명
 
 - [TRANSFORMER EXPLAINER: GPT-2(samll) 인공신경망 과정 시각화](https://poloclub.github.io/transformer-explainer/)
+  - 구조도
+  > <img width="1420" height="416" alt="image" src="https://github.com/user-attachments/assets/e7a655bd-2582-47f3-b4ab-d7e955078e46" />
+
+  - 트랜스포머 논문(2017)과 GPT-2의 차이
   > | 항목 | 원 논문 | GPT-2 |
   > |---|---|---|
   > | 층 정규화 위치 | 더한 뒤 (Post-LN) | 들어가기 전 (Pre-LN) |
