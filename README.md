@@ -18,7 +18,8 @@
 
 - [TRANSFORMER EXPLAINER: GPT-2(samll) 인공신경망 과정 시각화](https://poloclub.github.io/transformer-explainer/)
   - 구조도
-  > <img width="1420" height="416" alt="image" src="https://github.com/user-attachments/assets/e7a655bd-2582-47f3-b4ab-d7e955078e46" />
+  > <img width="1577" height="447" alt="image" src="https://github.com/user-attachments/assets/e27bcb47-7451-4eaa-bc82-7fdac5333690" />
+
 
   - 트랜스포머 논문(2017)과 GPT-2의 차이
   > | 항목 | 원 논문 | GPT-2 |
