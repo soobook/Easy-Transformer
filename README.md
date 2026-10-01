@@ -3,7 +3,7 @@
 
 ## 트랜스포머 개념 이해 자료
 - [트랜스포머(transformer)모델 쉽게 이해하기](https://www.hanbit.co.kr/channel/view.html?cmscode=CMS3470707425)
-- [트랜스포머 모델](https://huggingface.co/learn/llm-course/ko/chapter1/1)
+- [트랜스포머 모델(Hugging Face, 기초보터 코딩까지)](https://huggingface.co/learn/llm-course/ko/chapter1/1)
 - [트랜스포머 모델 기본 개념과 주요 구성 요소 정리](https://velog.io/@jayginwoolee/%ED%8A%B8%EB%9E%9C%EC%8A%A4%ED%8F%AC%EB%A8%B8-%EB%AA%A8%EB%8D%B8-%EA%B8%B0%EB%B3%B8-%EA%B0%9C%EB%85%90%EA%B3%BC-%EC%A3%BC%EC%9A%94-%EA%B5%AC%EC%84%B1-%EC%9A%94%EC%86%8C-%EC%A0%95%EB%A6%AC)
 
 ## 트랜스포머 내부 구조 이해 자료
